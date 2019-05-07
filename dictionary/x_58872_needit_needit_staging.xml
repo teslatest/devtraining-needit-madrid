@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="needit_staging" max_length="40" name="x_58872_needit_needit_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Assignee" label="Assignee" max_length="40" name="u_assignee" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Assignment_Group" label="Assignment_Group" max_length="40" name="u_assignment_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Close_Date" label="Close_Date" max_length="40" name="u_close_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Closure_Comments" label="Closure_Comments" max_length="1000" name="u_closure_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DAYS" label="DAYS" max_length="40" name="u_days" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Open_Date" label="Open_Date" max_length="40" name="u_open_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SD_NO" label="SD_NO" max_length="40" name="u_sd_no" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=status" label="status" max_length="40" name="u_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Task_Number" label="Task_Number" max_length="40" name="u_task_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Title" label="Title" max_length="113" name="u_title" type="string"/>
+    </element>
+</database>
