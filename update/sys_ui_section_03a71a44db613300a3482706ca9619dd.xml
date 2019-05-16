@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="General" section_id="03a71a44db613300a3482706ca9619dd" sys_domain="global" table="x_58872_needit_needit_extend" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_tag</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>0fa71a44db613300a3482706ca9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>install_status</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>8fa71a44db613300a3482706ca9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>03a71a44db613300a3482706ca9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>serial_number</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>83a71a44db613300a3482706ca9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>substatus</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>07a71a44db613300a3482706ca9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>87a71a44db613300a3482706ca9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>0ba71a44db613300a3482706ca9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>8ba71a44db613300a3482706ca9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stockroom</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>0fa71a44db613300a3482706ca9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reserved_for</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>8fa71a44db613300a3482706ca9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>managed_by</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>03a71a44db613300a3482706ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owned_by</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>83a71a44db613300a3482706ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>07a71a44db613300a3482706ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>87a71a44db613300a3482706ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>0ba71a44db613300a3482706ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>8ba71a44db613300a3482706ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>0fa71a44db613300a3482706ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>8fa71a44db613300a3482706ca9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>03a71a44db613300a3482706ca9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>install_date</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>83a71a44db613300a3482706ca9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>07a71a44db613300a3482706ca9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_id>87a71a44db613300a3482706ca9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_needit_extend" sys_domain="global" view="Default view">03a71a44db613300a3482706ca9619dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>General</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit_extend</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-16 15:24:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03a71a44db613300a3482706ca9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>General</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_03a71a44db613300a3482706ca9619dd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-16 15:24:09</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
