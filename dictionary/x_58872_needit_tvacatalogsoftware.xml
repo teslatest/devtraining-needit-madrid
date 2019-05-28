@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="TVACatalogSoftware" max_length="40" name="x_58872_needit_tvacatalogsoftware" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Approver" max_length="40" name="approver" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="catalog.description" max_length="4000" name="catalog_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="catalog.publish.status" max_length="40" name="catalog_publish_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Category" max_length="40" name="category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="4000" name="comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Cost" max_length="40" name="cost" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="create.flag" max_length="40" name="create_flag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Forminstructions" max_length="4000" name="forminstructions" type="string"/>
+        <element label="id" max_length="40" name="id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="install.type" max_length="40" name="install_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Keywords" max_length="4000" name="keywords" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Lic" max_length="40" name="lic" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Os" max_length="40" name="os" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Owner" max_length="40" name="owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="parent.item" max_length="40" name="parent_item" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="publish.directive" max_length="40" name="publish_directive" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Qa" max_length="40" name="qa" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="search.code" max_length="40" name="search_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Standard" max_length="40" name="standard" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="40" name="status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TVA.process.type" max_length="40" name="tva_process_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="URL" max_length="40" name="url" type="string"/>
+        <element label="version" max_length="40" name="version" type="string"/>
     </element>
 </database>
