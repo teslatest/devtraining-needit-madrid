@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_topic">
+    <sys_cs_topic action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applicability/>
+        <cb_topic_id display_value="">8d50ff49dba23300a3482706ca9619aa</cb_topic_id>
+        <definition>{"id":"8d50ff49dba23300a3482706ca9619aa","name":"Test","vendor_id":"c2f0b8f187033200246ddd4c97cb0bb9","description":"Test","applicability":"","category":"","key_phrases":["Test"],"variables":[{"name":"__segment_trigger_95dd466e91fb454290e6d30c539c272c_done","type":"java.lang.Object","init_value":"false"},{"name":"previous_graph_node","type":"java.lang.Object"}],"fields":[{"type":"Boolean","name":"RootDecisionBranch_def1b741f7e23300df1687fdf1016f9c","unique":false,"default_value":"true","key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_Branch_RootDecisionBranch_9ef1b741c8e23300355347c94447f59c","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_Decision_RootDecision_5ef1b741bce23300c4d0cbb895b2079c","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_StartGoal_c492216e563943dbbb9c0eceb0eabe08","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"String","name":"__silent_TerminateGoal_f4ef980fcf2b4a638cdbda8356bec6e7","unique":false,"key_phrases":[],"static_enum_list":[]},{"type":"Reference","table_name":"sys_user","name":"user","unique":false,"key_phrases":[],"static_enum_list":[]}],"actions":[],"tasks":[{"type":"Consumer to system","show_as_button":true,"name":"primary","description":"primary","applicability":"vaVars.__segment_trigger_95dd466e91fb454290e6d30c539c272c_done==false","mode":"Qmode","key_phrases":[],"greeting_msg":"vaInputs.initialize(\"user\");vaInputs.initialize(\"RootDecisionBranch_def1b741f7e23300df1687fdf1016f9c\");vaInputs.initialize(\"__silent_TerminateGoal_f4ef980fcf2b4a638cdbda8356bec6e7\");vaInputs.initialize(\"__silent_Branch_RootDecisionBranch_9ef1b741c8e23300355347c94447f59c\");vaInputs.initialize(\"__silent_Decision_RootDecision_5ef1b741bce23300c4d0cbb895b2079c\");vaInputs.initialize(\"__silent_StartGoal_c492216e563943dbbb9c0eceb0eabe08\");null;","fields":[{"name":"__silent_Decision_RootDecision_5ef1b741bce23300c4d0cbb895b2079c","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"RootDecision_for_goal_primary___RootDecision_5ef1b741bce23300c4d0cbb895b2079c\";vaInputs.__silent_Decision_RootDecision_5ef1b741bce23300c4d0cbb895b2079c=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"RootDecision_for_goal_primary___RootDecision_5ef1b741bce23300c4d0cbb895b2079c\";vaInputs.RootDecisionBranch_def1b741f7e23300df1687fdf1016f9c=true;null;"},{"name":"__silent_Branch_RootDecisionBranch_9ef1b741c8e23300355347c94447f59c","applicable":"vaVars.previous_graph_node==\"RootDecision_for_goal_primary___RootDecision_5ef1b741bce23300c4d0cbb895b2079c\" &amp;&amp; ((vaInputs.RootDecisionBranch_def1b741f7e23300df1687fdf1016f9c.getValue() == true))","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"RootDecisionBranch_9ef1b741c8e23300355347c94447f59c___RootDecisionBranch_9ef1b741c8e23300355347c94447f59c\";vaInputs.__silent_Branch_RootDecisionBranch_9ef1b741c8e23300355347c94447f59c=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"RootDecisionBranch_9ef1b741c8e23300355347c94447f59c___RootDecisionBranch_9ef1b741c8e23300355347c94447f59c\";null;"},{"name":"__silent_StartGoal_c492216e563943dbbb9c0eceb0eabe08","applicable":"vaVars.previous_graph_node==\"RootDecisionBranch_9ef1b741c8e23300355347c94447f59c___RootDecisionBranch_9ef1b741c8e23300355347c94447f59c\"","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"Start___c492216e563943dbbb9c0eceb0eabe08\";vaInputs.__silent_StartGoal_c492216e563943dbbb9c0eceb0eabe08=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"Start___c492216e563943dbbb9c0eceb0eabe08\";null;"},{"name":"__silent_TerminateGoal_f4ef980fcf2b4a638cdbda8356bec6e7","applicable":"vaVars.previous_graph_node==\"Start___c492216e563943dbbb9c0eceb0eabe08\"","direction":"Input","required":true,"prompt_msg":"vaVars.previous_graph_node=\"End___f4ef980fcf2b4a638cdbda8356bec6e7\";vaInputs.__silent_TerminateGoal_f4ef980fcf2b4a638cdbda8356bec6e7=true;null;","confirm_msg_on_default_value":{"msg":"","val_for_confirm":true},"acknowledge_msg":"vaVars.previous_graph_node=\"End___f4ef980fcf2b4a638cdbda8356bec6e7\";vaVars.__segment_trigger_95dd466e91fb454290e6d30c539c272c_done=true;null;"}],"variables_update":[]}],"roles":[],"active":false,"published":true,"score":-1.0,"sys_scope":"6ead8e780f603200cd674f8ce1050ed1","title":"Test"}</definition>
+        <fields/>
+        <is_system_topic>false</is_system_topic>
+        <key_phrases>Test</key_phrases>
+        <metaphone>TST</metaphone>
+        <name>Test</name>
+        <published>true</published>
+        <roles/>
+        <sys_class_name>sys_cs_topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-08 17:28:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>8d50ff49dba23300a3482706ca9619aa</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_cs_topic_8d50ff49dba23300a3482706ca9619aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-08 17:35:30</sys_updated_on>
+        <title>Test</title>
+        <vendor display_value="ServiceNow">c2f0b8f187033200246ddd4c97cb0bb9</vendor>
+    </sys_cs_topic>
+    <sys_variable_value action="delete_multiple" query="document_key=8d50ff49dba23300a3482706ca9619aa"/>
+</record_update>
