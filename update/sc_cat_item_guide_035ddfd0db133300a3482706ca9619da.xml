@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide">
+    <sc_cat_item_guide action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <cascade>false</cascade>
+        <category display_value="Services">109f0438c6112276003ae8ac13e7009d</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;">A New Employee, Employee with a change in Job Position, or an Existing Employee needing additional security or access within Power Operations should choose one of the following four work areas: </span></p>
+<ul><li><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;">Coal Employee Maximo Access, </span></li><li><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;"><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;">Gas Employee Maximo Access, </span></span></li><li><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;"><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;"><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;">Hydro Employee Maximo Access or CGH Corporate, Asset Reliability, Fleet Optimization, Field Services Engineering Maximo Access .</span></span></span><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;"><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;"><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;">They may also select optional Maximo CAP access, Maximo Governance Access or Additonal Maximo Site Access - outside of Power Operations, if this additional access is known at this time. </span></span></span></li></ul>
+<p><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;">Note: Do not select CGH Corporate, Asset Reliability, Fleet Optimization, Field Services and Engineering Maximo Access unless you do work in all four areas. An Existing Employee with Maximo Access needing optional CAP Access, Maximo Governance Access or Additional Maximo Site Access - outside of Power Operations only has to select the optional access required, not a work area. After making your selections, click &#34;&#34;Add to Cart&#34;&#34; to continue with your Maximo request. &#34;</span></p>]]></description>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <include_items>true</include_items>
+        <list_price>0</list_price>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta>Maximo&#13;
+Hydro&#13;
+EAM&#13;
+Coal&#13;
+powerops&#13;
+poweroperations&#13;
+gas</meta>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Power Operations Maximo Access (Bundle)</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <order_to_cart>false</order_to_cart>
+        <ordered_item_link/>
+        <picture>0cdddf50db133300a3482706ca9619ab</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_guide_view.do?v=1&amp;sysparm_initial=true&amp;sysparm_guide=035ddfd0db133300a3482706ca9619da&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method>request</request_method>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script/>
+        <short_description>Request Maximo Access for employees who need to access Nuclear.</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_guide</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-12 14:58:43</sys_created_on>
+        <sys_id>035ddfd0db133300a3482706ca9619da</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Power Operations Maximo Access (Bundle)</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_guide_035ddfd0db133300a3482706ca9619da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-12 15:21:48</sys_updated_on>
+        <template/>
+        <two_step>false</two_step>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <validator/>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_guide>
+    <sys_translated_text action="delete_multiple" query="documentkey=035ddfd0db133300a3482706ca9619da"/>
+    <fx_price action="delete_multiple" query="id=035ddfd0db133300a3482706ca9619da"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>035ddfd0db133300a3482706ca9619da</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-12 14:58:43</sys_created_on>
+        <sys_id>eccd1714db133300a3482706ca961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-12 14:58:43</sys_updated_on>
+        <table>sc_cat_item_guide</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>035ddfd0db133300a3482706ca9619da</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-12 14:58:43</sys_created_on>
+        <sys_id>24cd1714db133300a3482706ca96196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-12 14:58:43</sys_updated_on>
+        <table>sc_cat_item_guide</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#8697cb</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/bmp</content_type>
+        <file_name>picture</file_name>
+        <image_height>184</image_height>
+        <image_width>204</image_width>
+        <size_bytes>112662</size_bytes>
+        <size_compressed>1848</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-12 14:58:58</sys_created_on>
+        <sys_id>0cdddf50db133300a3482706ca9619ab</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2019-08-12 14:59:01</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_guide</table_name>
+        <table_sys_id>035ddfd0db133300a3482706ca9619da</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="0cdddf50db133300a3482706ca9619ab">0cdddf50db133300a3482706ca9619ab</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-12 14:58:58</sys_created_on>
+        <sys_id>4cdddf50db133300a3482706ca9619ab</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2452</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="0cdddf50db133300a3482706ca9619ab">0cdddf50db133300a3482706ca9619ab</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-12 14:58:58</sys_created_on>
+        <sys_id>ccdddf50db133300a3482706ca9619ab</sys_id>
+    </sys_attachment_doc>
+</record_update>
