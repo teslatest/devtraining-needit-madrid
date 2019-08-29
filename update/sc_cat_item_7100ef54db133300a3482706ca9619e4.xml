@@ -69,6 +69,8 @@ Maximo</meta>
         <sys_updated_on>2019-08-12 15:12:37</sys_updated_on>
         <template/>
         <type>item</type>
+        <u_cart_apporver>false</u_cart_apporver>
+        <u_tva_sec_approver/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
         <visible_bundle>true</visible_bundle>

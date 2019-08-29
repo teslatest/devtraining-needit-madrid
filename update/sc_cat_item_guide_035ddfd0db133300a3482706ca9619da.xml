@@ -80,6 +80,8 @@ gas</meta>
         <template/>
         <two_step>false</two_step>
         <type>item</type>
+        <u_cart_apporver>false</u_cart_apporver>
+        <u_tva_sec_approver/>
         <use_sc_layout>true</use_sc_layout>
         <validator/>
         <vendor/>
