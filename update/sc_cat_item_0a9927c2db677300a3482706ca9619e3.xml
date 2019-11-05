@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
         <active>true</active>
-        <availability>on_both</availability>
+        <availability>on_desktop</availability>
         <billable>false</billable>
         <category/>
         <cost>0</cost>
@@ -9,7 +9,7 @@
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description><![CDATA[<table style="width: 522pt; border-collapse: collapse;" border="0" width="696" cellspacing="0" cellpadding="0"><colgroup><col style="width: 202pt;" width="269" /></colgroup><colgroup><col style="width: 320pt;" width="427" /></colgroup><tbody><tr style="height: 81.75pt;"><td style="border-width: 0.5pt; border-style: solid; border-color: windowtext black windowtext windowtext; width: 522pt; height: 81.75pt; background-color: #f2f2f2;" colspan="2" width="696" height="109"><span style="font-family: Calibri; font-size: 12pt;">Request Access to Maximo Security Groups for Browns Ferry Nuclear Employees</span></td></tr></tbody></table>]]></description>
+        <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -21,14 +21,12 @@
         <list_price>0</list_price>
         <location/>
         <mandatory_attachment>false</mandatory_attachment>
-        <meta>EAM&#13;
-Maximo&#13;
-BLN</meta>
+        <meta>Test</meta>
         <mobile_hide_price>false</mobile_hide_price>
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>Bellefonte Nuclear Employee Maximo Access (Work Area)</name>
+        <name>Test  2</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -44,33 +42,33 @@ BLN</meta>
         <order>0</order>
         <ordered_item_link/>
         <picture/>
-        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=0d50ef54db133300a3482706ca961932&amp;sysparm_preview=true", "summary");</preview>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=0a9927c2db677300a3482706ca9619e3&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
         <recurring_frequency/>
         <recurring_price>0</recurring_price>
         <request_method/>
         <roles/>
-        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_catalogs/>
         <sc_ic_item_staging/>
         <sc_ic_version/>
-        <short_description>Request Access to Maximo Security Groups for Browns Ferry Nuclear Employees	</short_description>
+        <short_description>Hello</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <sys_class_name>sc_cat_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-08-12 15:10:28</sys_created_on>
-        <sys_id>0d50ef54db133300a3482706ca961932</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Bellefonte Nuclear Employee Maximo Access (Work Area)</sys_name>
+        <sys_created_on>2019-08-30 12:35:37</sys_created_on>
+        <sys_id>0a9927c2db677300a3482706ca9619e3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Test  2</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sc_cat_item_0d50ef54db133300a3482706ca961932</sys_update_name>
+        <sys_update_name>sc_cat_item_0a9927c2db677300a3482706ca9619e3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-12 15:10:28</sys_updated_on>
+        <sys_updated_on>2019-08-30 12:35:37</sys_updated_on>
         <template/>
         <type>item</type>
-        <u_cart_apporver>false</u_cart_apporver>
+        <u_cart_apporver>true</u_cart_apporver>
         <u_tva_part/>
         <u_tva_sec_approver/>
         <use_sc_layout>true</use_sc_layout>
@@ -80,22 +78,22 @@ BLN</meta>
         <visible_standalone>true</visible_standalone>
         <workflow/>
     </sc_cat_item>
-    <sys_translated_text action="delete_multiple" query="documentkey=0d50ef54db133300a3482706ca961932"/>
-    <fx_price action="delete_multiple" query="id=0d50ef54db133300a3482706ca961932"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=0a9927c2db677300a3482706ca9619e3"/>
+    <fx_price action="delete_multiple" query="id=0a9927c2db677300a3482706ca9619e3"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price</field>
-        <id>0d50ef54db133300a3482706ca961932</id>
+        <id>0a9927c2db677300a3482706ca9619e3</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-08-12 15:10:28</sys_created_on>
-        <sys_id>2470a394db133300a3482706ca961959</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_created_on>2019-08-30 12:35:37</sys_created_on>
+        <sys_id>3b9927c2db677300a3482706ca9619eb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-12 15:10:28</sys_updated_on>
+        <sys_updated_on>2019-08-30 12:35:37</sys_updated_on>
         <table>sc_cat_item</table>
         <type>calculated</type>
     </fx_price>
@@ -103,16 +101,16 @@ BLN</meta>
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>recurring_price</field>
-        <id>0d50ef54db133300a3482706ca961932</id>
+        <id>0a9927c2db677300a3482706ca9619e3</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-08-12 15:10:28</sys_created_on>
-        <sys_id>6c70a394db133300a3482706ca961959</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_created_on>2019-08-30 12:35:37</sys_created_on>
+        <sys_id>f39967c2db677300a3482706ca961950</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-12 15:10:28</sys_updated_on>
+        <sys_updated_on>2019-08-30 12:35:37</sys_updated_on>
         <table>sc_cat_item</table>
         <type>calculated</type>
     </fx_price>

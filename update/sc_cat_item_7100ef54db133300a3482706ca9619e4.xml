@@ -11,6 +11,7 @@
         <delivery_time>1970-01-03 00:00:00</delivery_time>
         <description><![CDATA[<table style="width: 6px; height: 42px; border-collapse: collapse;" border="0" width="427" cellspacing="0" cellpadding="0"><colgroup><col style="width: 320pt;" width="427" /></colgroup><tbody><tr style="height: 30pt;"><td style="border: 0.5pt solid windowtext; width: 320pt; height: 30pt; background-color: #f2f2f2;" width="427" height="40"><span style="font-family: Calibri; font-size: 12pt;"> </span></td></tr></tbody></table>
 <p>Request Access to Maximo Security Groups for Coal Operations Employees.</p>]]></description>
+        <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
         <group/>
@@ -70,6 +71,7 @@ Maximo</meta>
         <template/>
         <type>item</type>
         <u_cart_apporver>false</u_cart_apporver>
+        <u_tva_part/>
         <u_tva_sec_approver/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>

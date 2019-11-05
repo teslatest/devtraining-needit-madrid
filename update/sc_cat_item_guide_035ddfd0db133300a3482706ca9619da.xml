@@ -13,6 +13,7 @@
         <description><![CDATA[<p><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;">A New Employee, Employee with a change in Job Position, or an Existing Employee needing additional security or access within Power Operations should choose one of the following four work areas: </span></p>
 <ul><li><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;">Coal Employee Maximo Access, </span></li><li><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;"><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;">Gas Employee Maximo Access, </span></span></li><li><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;"><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;"><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;">Hydro Employee Maximo Access or CGH Corporate, Asset Reliability, Fleet Optimization, Field Services Engineering Maximo Access .</span></span></span><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;"><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;"><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;">They may also select optional Maximo CAP access, Maximo Governance Access or Additonal Maximo Site Access - outside of Power Operations, if this additional access is known at this time. </span></span></span></li></ul>
 <p><span style="font-family: arial,helvetica,sans-serif; font-size: 10pt;">Note: Do not select CGH Corporate, Asset Reliability, Fleet Optimization, Field Services and Engineering Maximo Access unless you do work in all four areas. An Existing Employee with Maximo Access needing optional CAP Access, Maximo Governance Access or Additional Maximo Site Access - outside of Power Operations only has to select the optional access required, not a work area. After making your selections, click &#34;&#34;Add to Cart&#34;&#34; to continue with your Maximo request. &#34;</span></p>]]></description>
+        <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
         <group/>
@@ -81,6 +82,7 @@ gas</meta>
         <two_step>false</two_step>
         <type>item</type>
         <u_cart_apporver>false</u_cart_apporver>
+        <u_tva_part/>
         <u_tva_sec_approver/>
         <use_sc_layout>true</use_sc_layout>
         <validator/>
@@ -132,6 +134,7 @@ gas</meta>
         <compressed>true</compressed>
         <content_type>image/bmp</content_type>
         <file_name>picture</file_name>
+        <hash/>
         <image_height>184</image_height>
         <image_width>204</image_width>
         <size_bytes>112662</size_bytes>
